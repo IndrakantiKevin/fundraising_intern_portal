@@ -3,7 +3,7 @@
 
 Welcome to the official repository for the **SHE CAN Foundation's Fundraising Intern Portal**. This is a modern, full-stack application designed to provide a motivating and visually engaging experience for our fundraising interns. The portal reflects the foundation's mission to empower women through an intuitive and professional interface.
 
-**Live Demo:** [Link to your deployed site here]
+**Live Demo:** https://fundraising-intern-portal-tau.vercel.app
 
 ## 🌟 Project Overview
 

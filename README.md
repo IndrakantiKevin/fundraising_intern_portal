@@ -12,13 +12,13 @@ This portal serves as a central hub for our interns to track their fundraising p
 ## 🖼️ Screenshots
 
 #Login Page
-<img width="1915" height="862" alt="image" src="https://github.com/user-attachments/assets/46378613-3e8d-49e7-94e0-2cdcb4e66b9a" />
+<img width="1108" height="735" alt="image" src="https://github.com/user-attachments/assets/b670511c-1b15-42d1-b5db-974c640426cc" />
 
 #Dashboard
-<img width="2270" height="2818" alt="localhost_5173_dashboard" src="https://github.com/user-attachments/assets/f7d922fc-4616-4b2a-8624-26676b0a4804" />
+<img width="2270" height="2818" alt="localhost_5173_dashboard" src="https://github.com/user-attachments/assets/c229f3c9-ccbd-41e3-b747-f33384b29f02" />
 
 #Leader Board
-<img width="2270" height="3206" alt="localhost_5173_dashboard (1)" src="https://github.com/user-attachments/assets/60012429-6d69-4a7e-aa75-68ed91214467" />
+<img width="2270" height="3206" alt="localhost_5173_dashboard (1)" src="https://github.com/user-attachments/assets/d9ae3311-06b4-42e6-886d-dfa670c786c8" />
 
 
 
